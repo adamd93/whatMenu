@@ -1,0 +1,26 @@
+[
+    {
+        "itemId": 1,
+        "name": "Chips",
+        "description": "Bag of chips",
+        "price": "€2.20"
+    },
+    {
+        "itemId": 2,
+        "name": "Curry chips",
+        "description": "Tray of chips covered in curry sauce",
+        "price": "€2.20"
+    },
+    {
+        "itemId": 3,
+        "name": "Taco Chips",
+        "description": "Tray of chips with mince and taco sauce",
+        "price": "€2.20"
+    },
+    {
+        "itemId": 4,
+        "name": "Cheese Chips",
+        "description": "Tray of chips covered with cheese",
+        "price": "€2.20"
+    }
+]
